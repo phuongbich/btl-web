@@ -1,0 +1,25 @@
+a {
+    cursor: pointer;
+}
+
+
+/* footer */
+
+#footer {
+    background-color: #1f405eef;
+    padding-top: 1%;
+}
+
+#footer li {
+    padding: 0 1% 0 1%;
+}
+
+#footer li:first-child,
+li:nth-child(2),
+li:nth-child(3) {
+    border-right: white solid 1px;
+}
+
+#footer a {
+    color: white;
+}
